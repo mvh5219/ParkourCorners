@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParkourCorners</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_nav_screen">NavScreen</string>
+</resources>
